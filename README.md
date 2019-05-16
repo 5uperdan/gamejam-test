@@ -26,8 +26,8 @@ source gamejam-test/bin/activate
 pip install -r requirements
 ```
 
-6. Cd to cloned repo and Run main.py from within your virtualenv. eg.
+6. Cd to cloned repo and run check file from within your virtualenv. eg.
 
 ```
-(gamejam-test) danny@danny-Mint-19:~/Documents/repos/others/gamejam-test$ python main.py
+(gamejam-test) danny@danny-Mint-19:~/Documents/repos/others/gamejam-test$ python pygame_check.py
 ```
